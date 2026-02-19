@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "I’m Not Burned Out. I’m In Between Identities."
 date: 2026-02-18
 ---
 # I’m Not Burned Out. I’m In Between Identities.
