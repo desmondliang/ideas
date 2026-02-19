@@ -1,3 +1,8 @@
+---
+layout: post
+title: "First Post"
+date: 2026-02-18
+---
 # I’m Not Burned Out. I’m In Between Identities.
 
 For a long time, I thought I was just tired.
